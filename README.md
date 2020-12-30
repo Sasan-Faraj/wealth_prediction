@@ -42,7 +42,7 @@ ___
 
 ## Reasoning Behind the Results, Limits, and Possible Avenues for Improvments
 
-As was predicted in the initial anlysis, the models did not perform to well. Specifically, the KNN models all were drastically overfit. I believe that the over-representation of lower-income individuals tied with the lack of variety in features caused the lack in performance. For instance, rather than the data simply representing location in terms of intergers from 0-15, it could have been easier to draw relationships between more specific coordinate points. This type of geogrpahical analyses is generally conducted using bayesian based inference techniques, as discussed in my literature review conducted last year ([located here](ttps://sasan-faraj.github.io/workshop/assignment_3))
+As was predicted in the initial anlysis, the models did not perform to well. Specifically, the KNN models all were drastically overfit. I believe that the over-representation of lower-income individuals tied with the lack of variety in features caused the lack in performance. For instance, rather than the data simply representing location in terms of intergers from 0-15, it could have been easier to draw relationships between more specific coordinate points. This type of geogrpahical analyses is generally conducted using bayesian based inference techniques, as discussed in my literature review conducted last year ([located here](https://sasan-faraj.github.io/workshop/assignment_3))
 
 ___
 
