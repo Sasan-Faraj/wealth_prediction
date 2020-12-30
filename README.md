@@ -42,9 +42,9 @@ ___
 
 ## Reasoning Behind the Results, Limits, and Possible Avenues for Improvments
 
-As was predicted in the initial anlysis, the models did not perform to well. Specifically, the KNN models all were drastically overfit. I believe that the over-representation of lower-income individuals tied with the lack of variety in features caused the lack in performance. For instance, rather than the data simply representing location in terms of intergers from 0-15, it could have been easier to draw relationships between more specific coordinate points. This type of geogrpahical analyses is generally conducted using bayesian based inference techniques, as discussed in my literature review conducted last year ([located here](https://sasan-faraj.github.io/workshop/assignment_3))
+As was predicted in the initial anlysis, the models did not perform to well. Specifically, the KNN models all were drastically overfit. I believe that the over-representation of lower-income individuals tied with the lack of variety in features caused the lack in performance. For instance, rather than the data simply representing location in terms of intergers from 0-15, it could have been easier to draw relationships between more specific coordinate points. This type of geogrpahical analyses is generally conducted using bayesian based inference techniques, as discussed in my literature review conducted last year ([located here](https://sasan-faraj.github.io/workshop/assignment_3)).
 
 ___
 
 ## Reason for Project
-This is my first project out of many that I aim to conduct outside of an academic setting. My main goal of the project was to reflect on some of my road blocks (ie what didn't go so well) from creating my own data science project without overlying instructions. As I desire to  explore my different areas of research interests, I simply modified a past extra credit assignment in order to ease the transition into more realistic analysis. 
+This is my first project out of many that I aim to conduct outside of an academic setting. The main goal of my project was reflect on road blocks that I would encounter while completing a project without overlying instructions. As I desire to begin exploring different areas of research interests, I simply modified a past extra credit assignment in order to ease the transition into more realistic analysis. 
