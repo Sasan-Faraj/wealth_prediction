@@ -7,7 +7,7 @@ ___
 
 A correlation matrix was not created in the primary analyses of the features or the target because neither the data did not appear to be linearly based in the previous project. In order to double check that the data seemed to be accurately distributed, a pairplot of the features was created. The features in this case were location, gender, size, education, and age. All of the features were represented as a in interger data type.
 
-![](lbr_pair_plot.png)
+![](pair_plot.png)
 
 The pairplot demonstrates that the data is not distributed in any abnormal ways that would require further investigation. 
 
